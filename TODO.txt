@@ -1,0 +1,9 @@
+TODO:
+
+1. create a html for end. X
+2. fix the video size X
+3. write the info for Sunt X
+4. home background image? X
+5. about section ready with a CV and portfolio
+6. contact details?
+7. make a JS-script for the menu

@@ -4,6 +4,9 @@ TODO:
 2. fix the video size X
 3. write the info for Sunt X
 4. home background image? X
-5. about section ready with a CV and portfolio
-6. contact details?
-7. make a JS-script for the menu
+5. about section ready with a CV and portfolio x
+6. contact details? x
+7. blurp for portrait and fix mobile
+8. gitignore?
+
+?. make a JS-script for the menu
